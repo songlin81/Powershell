@@ -1,0 +1,1 @@
+powershell -noexit "& "".\FetchOutlookEventLogs.ps1"""
